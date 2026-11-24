@@ -1,17 +1,23 @@
-# Hi, I'm Engy Yousry Henry 
+# Hi, I'm Engy Yousry Henry
 
-**Manual & Automation QA Engineer** 
+**QA Engineer | Manual, API & Web Automation (Selenium)**
 
-## Core Skills & Tools
-- **Manual Testing:** Test Case Design, Test Execution, Bug Reporting, STLC / SDLC, Functional & Regression Testing
-- **Test Automation:** Java, Selenium WebDriver, TestNG, Page Object Model (POM), Maven, Parallel Execution (`ThreadLocal<WebDriver>`), Data-Driven Testing (JSON)
-- **API Testing:** Postman, Newman
-- **Version Control & Tools:** Git, GitHub, IntelliJ IDEA
+ISTQB CTFL v4 certified QA Engineer focused on Manual Testing, REST API Testing, and Web Test Automation using Selenium WebDriver, Java, and TestNG.
 
-## Featured Repositories
-- **OrangeHRM Automation Project:** End-to-end Selenium WebDriver + TestNG framework using POM, JSON DataProvider, parallel execution, Log4j2, retry logic, and Allure reporting.
-- **TMDB API Testing:** API test suite and automation workflows built with Postman and Newman.
+## Core Focus & Skills
+
+- **Manual Testing:** Test Case Design & Execution, Functional, Smoke, Regression & Exploratory Testing, Defect Reporting & Lifecycle (Jira, Zephyr), STLC / SDLC
+- **Web Test Automation (Selenium):** Selenium WebDriver, Java (OOP), TestNG, Page Object Model (POM), Data-Driven Testing (JSON, DataProvider), Locators, Waits & Assertions, Maven
+- **API Testing:** REST API Testing, Postman, Newman, REST Assured, Request/Response & JSON Validation, Automated API Assertions
+- **Tools & CI/CD:** Git, GitHub, IntelliJ IDEA, Jenkins, JMeter, SQL Fundamentals
+
+## Highlighted Projects
+
+- **SwagLabs Web Automation:** Selenium WebDriver, Java, TestNG & Maven framework using Page Object Model (POM) and JSON data-driven testing.
+- **TMDB REST API Testing:** Automated API test scenarios and assertions with Postman and Newman CLI.
+- **OpenCart & Guru99 Manual Testing:** Structured test case design, execution, regression cycles, and bug tracking in Jira.
 
 ## Connect With Me
-- **LinkedIn:** [linkedin.com/in/engyhenry](https://www.linkedin.com/in/engyhenry)
-- **GitHub:** [github.com/EnjyHenry](https://github.com/EnjyHenry)
+
+- **LinkedIn:** [linkedin.com/in/engyhenry](https://linkedin.com/in/engyhenry)[cite: 7]
+- **GitHub:** [github.com/EnjyHenry](https://github.com/EnjyHenry)[cite: 7]
