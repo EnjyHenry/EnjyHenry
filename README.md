@@ -19,5 +19,5 @@ ISTQB CTFL v4 certified QA Engineer focused on Manual Testing, REST API Testing,
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/engyhenry](https://linkedin.com/in/engyhenry)[cite: 7]
-- **GitHub:** [github.com/EnjyHenry](https://github.com/EnjyHenry)[cite: 7]
+- **LinkedIn:** [linkedin.com/in/engyhenry](https://linkedin.com/in/engyhenry)
+- **GitHub:** [github.com/EnjyHenry](https://github.com/EnjyHenry)
