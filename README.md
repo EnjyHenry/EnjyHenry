@@ -1,6 +1,6 @@
 # Hi, I'm Engy Yousry Henry
 
-**QA Engineer | Manual, API & Web Automation (Selenium)**
+**QA Engineer | Manual, API & Web Automation **
 
 ISTQB CTFL v4 certified QA Engineer focused on Manual Testing, REST API Testing, and Web Test Automation using Selenium WebDriver, Java, and TestNG.
 
